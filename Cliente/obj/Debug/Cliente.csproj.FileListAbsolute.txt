@@ -1,0 +1,6 @@
+C:\MisProyectos\DIS-Cajero\Cliente\bin\Debug\Cliente.dll
+C:\MisProyectos\DIS-Cajero\Cliente\bin\Debug\Cliente.pdb
+C:\MisProyectos\DIS-Cajero\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\MisProyectos\DIS-Cajero\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\MisProyectos\DIS-Cajero\Cliente\obj\Debug\Cliente.dll
+C:\MisProyectos\DIS-Cajero\Cliente\obj\Debug\Cliente.pdb

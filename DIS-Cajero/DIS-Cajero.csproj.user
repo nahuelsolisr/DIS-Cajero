@@ -4,6 +4,9 @@
     <Compile Update="CajeroForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Extraccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Login.cs">
       <SubType>Form</SubType>
     </Compile>

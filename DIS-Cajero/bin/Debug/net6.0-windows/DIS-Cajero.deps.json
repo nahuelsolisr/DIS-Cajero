@@ -7,14 +7,43 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "DIS-Cajero/1.0.0": {
+        "dependencies": {
+          "Cliente": "1.0.0",
+          "FontAwesome.Sharp": "6.3.0"
+        },
         "runtime": {
           "DIS-Cajero.dll": {}
+        }
+      },
+      "FontAwesome.Sharp/6.3.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Cliente/1.0.0": {
+        "runtime": {
+          "Cliente.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DIS-Cajero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FontAwesome.Sharp/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3/Fb0N04yYK8An07oox5ISlUyNgsnWildHfoP69uqTEOsemQemRyciphMkXZOcdBupjUD+lVsRE3FqG41/dzPA==",
+      "path": "fontawesome.sharp/6.3.0",
+      "hashPath": "fontawesome.sharp.6.3.0.nupkg.sha512"
+    },
+    "Cliente/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

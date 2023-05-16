@@ -16,5 +16,16 @@ namespace DIS_Cajero
         {
             InitializeComponent();
         }
+
+        private void btn_consultarSaldo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_extraccion_Click(object sender, EventArgs e)
+        {
+            Extraccion nuevaExtraccion = new Extraccion();
+            nuevaExtraccion.ShowDialog();
+        }
     }
 }

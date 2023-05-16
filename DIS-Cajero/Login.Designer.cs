@@ -100,6 +100,7 @@
             Font = new Font("Tahoma", 12F, FontStyle.Regular, GraphicsUnit.Point);
             Margin = new Padding(4);
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "-Login-";
             ResumeLayout(false);
             PerformLayout();

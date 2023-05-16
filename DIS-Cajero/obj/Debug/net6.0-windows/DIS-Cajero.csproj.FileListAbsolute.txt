@@ -16,3 +16,8 @@ C:\MisProyectos\DIS-Cajero\DIS-Cajero\obj\Debug\net6.0-windows\refint\DIS-Cajero
 C:\MisProyectos\DIS-Cajero\DIS-Cajero\obj\Debug\net6.0-windows\DIS-Cajero.pdb
 C:\MisProyectos\DIS-Cajero\DIS-Cajero\obj\Debug\net6.0-windows\DIS-Cajero.genruntimeconfig.cache
 C:\MisProyectos\DIS-Cajero\DIS-Cajero\obj\Debug\net6.0-windows\ref\DIS-Cajero.dll
+C:\MisProyectos\DIS-Cajero\DIS-Cajero\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\MisProyectos\DIS-Cajero\DIS-Cajero\obj\Debug\net6.0-windows\DIS-Cajero.csproj.CopyComplete
+C:\MisProyectos\DIS-Cajero\DIS-Cajero\obj\Debug\net6.0-windows\DIS_Cajero.Extraccion.resources
+C:\MisProyectos\DIS-Cajero\DIS-Cajero\bin\Debug\net6.0-windows\Cliente.dll
+C:\MisProyectos\DIS-Cajero\DIS-Cajero\bin\Debug\net6.0-windows\Cliente.pdb
